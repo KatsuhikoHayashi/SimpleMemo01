@@ -2,7 +2,7 @@
 //  SimpleMemo01Tests.swift
 //  SimpleMemo01Tests
 //
-//  Created by 林克彦 on 2015/05/20.
+//  Created by Hayashidesu. on 2015/05/20.
 //  Copyright (c) 2015年 Hayashidesu. All rights reserved.
 //
 
